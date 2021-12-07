@@ -12,19 +12,19 @@ http://208.86.19.21:80/705.stream/index.m3u8
 
 #EXTINF:-5,Sony max hd 
 http://208.86.19.21:80/706.stream/index.m3u8
-#EXTINF:Zee Bangla Cinema
+#EXTINF:-6,Zee Bangla Cinema
 http://208.86.19.21:80/708.stream/index.m3u8
 
-#EXTINF:Star Gold Select HD
+#EXTINF:-7,Star Gold Select HD
 http://208.86.19.21:80/709.stream/index.m3u8
 
-#EXTINF:Star Sports 1 HD
+#EXTINF:-8,Star Sports 1 HD
 http://208.86.19.21:80/710.stream/index.m3u8
 
-#EXTINF:Ten Sports
+#EXTINF:-9,Ten Sports
 http://208.86.19.21:80/711.stream/index.m3u8
 
-#EXTINF:Sony ten 2
+#EXTINF:-10,Sony ten 2
 http://208.86.19.21:80/712.stream/index.m3u8
 
 #EXTINF:Sony Ten 3
