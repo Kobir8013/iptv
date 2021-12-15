@@ -1,5 +1,8 @@
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="*Zee Bollywood",
 http://208.86.19.21:80/701.stream/index.m3u8
+
+#EXTINF:-2 tvg-logo="https://images.app.goo.gl/K274kkYM9S8wdKNG6" group-title="* SonyTen",
+http://103.131.212.138:8000/play/a01k/index.m3u8
 
 #EXTINF:-2,Sony SAB HD
 http://208.86.19.21:80/702.stream/index.m3u8
@@ -9,8 +12,7 @@ http://208.86.19.21:80/703.stream/index.m3u8
 
 #EXTINF:-4,&Pictures
 http://208.86.19.21:80/705.stream/index.m3u8
-
-#EXTINF:-5,Sony max hd 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="* MIXED02", Sony Max HD (4)
 http://208.86.19.21:80/706.stream/index.m3u8
 #EXTINF:-6,Zee Bangla Cinema
 http://208.86.19.21:80/708.stream/index.m3u8
@@ -270,9 +272,6 @@ http://103.131.212.138:8000/play/a017/index.m3u8
 
 #EXTINF:Romedy NOW-
 http://103.131.212.138:8000/play/a035/index.m3u8
-
-#EXTINF:Sony SET HD - 
-http://103.131.212.138:8000/play/a01k/index.m3u8
 
 #EXTINF:SIX HD - 
 http://103.131.212.138:8000/play/a028/index.m3u8
