@@ -12,7 +12,7 @@ http://208.86.19.21:80/703.stream/index.m3u8
 
 #EXTINF:-4,&Pictures
 http://208.86.19.21:80/705.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="* MIXED02", Sony Max HD (4)
+#EXTINF:-5, Sony Max HD 
 http://208.86.19.21:80/706.stream/index.m3u8
 #EXTINF:-6,Zee Bangla Cinema
 http://208.86.19.21:80/708.stream/index.m3u8
